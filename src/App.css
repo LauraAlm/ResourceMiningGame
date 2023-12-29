@@ -1,0 +1,105 @@
+.d-flex {
+  display: flex;
+}
+tt .f-direction-row {
+  flex-direction: row;
+}
+
+.f-direction-column {
+  flex-direction: column;
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.grow1 {
+  flex: 1;
+}
+
+.space-btw {
+  justify-content: space-between;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.a-content-start {
+  align-content: flex-start;
+}
+
+.a-content-end {
+  align-content: flex-end;
+}
+
+.a-items-center {
+  align-items: center;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+/*
+non-reusable classes
+*/
+
+.comment {
+  height: 120px;
+  width: 800px;
+  border: 1px solid grey;
+  padding: 20px;
+  margin: 20px;
+}
+
+.button {
+  margin-left: 20px;
+}
+
+.display-container {
+  height: 50px;
+  width: 1165px;
+  border: 1px solid grey;
+  padding: 20px;
+  margin: 40px;
+  margin-bottom: -10px;
+}
+
+.display-item {
+  padding: 15px;
+}
+
+.card {
+  height: 300px;
+  width: 200px;
+  border: 1px solid grey;
+  padding: 20px;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.item-img {
+  height: 200px;
+  width: 200px;
+}
+
+.limit-container {
+  height: 150px;
+  width: 240px;
+  border: 1px solid grey;
+  margin-left: 40px;
+  padding-left: 20px;
+  cursor: pointer;
+}
