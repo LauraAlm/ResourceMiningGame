@@ -1,7 +1,7 @@
 .d-flex {
   display: flex;
 }
-tt .f-direction-row {
+.f-direction-row {
   flex-direction: row;
 }
 
